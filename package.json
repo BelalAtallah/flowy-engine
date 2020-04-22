@@ -1,5 +1,5 @@
 {
-  "name": "flowy.js",
+  "name": "flowy-engine",
   "version": "0.1.0",
   "description": "The minimal javascript library to create flowcharts ✨",
   "author": "Alyssa X",
@@ -39,9 +39,9 @@
     "Joel Van Horn <joel@joelvanhorn.com> (http://joelvanhorn.com)"
   ],
   "bugs": {
-    "url": "https://github.com/alyssax/flowy/issues"
+    "url": "https://github.com/joelvh/flowy/issues"
   },
-  "homepage": "https://github.com/alyssax/flowy#readme",
+  "homepage": "https://github.com/joelvh/flowy#readme",
   "devDependencies": {
     "@babel/cli": "^7.5.5",
     "@babel/core": "^7.5.5",
@@ -52,6 +52,5 @@
     "parcel-bundler": "^1.12.4",
     "rimraf": "^3.0.2",
     "standard": "^14.3.1"
-  },
-  "dependencies": {}
+  }
 }
