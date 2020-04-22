@@ -1,6 +1,6 @@
 {
   "name": "flowy-engine",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "The minimal javascript library to create flowcharts ✨",
   "author": "Alyssa X",
   "license": "MIT",
