@@ -10,7 +10,7 @@
   "unpkg": "flowy.umd.js",
   "scripts": {
     "dist": "npm version patch && npm run build",
-    "build": "rimraf dist && babel src -d dist && npm run build:web && cp package.json dist/",
+    "build": "rimraf dist && babel src -d dist && npm run build:web && cp package.json README.md LICENSE dist/",
     "build:web": "rimraf dist && parcel build src/engine/index.css -o flowy -d dist && microbundle build -o dist -i src/engine -f cjs,umd,es",
     "build:demo": "rimraf demo && parcel build src/demo/index.html -d demo",
     "demo": "rimraf demo && parcel serve src/demo/index.html -d demo --open",

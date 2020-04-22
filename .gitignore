@@ -4,3 +4,5 @@ node_modules/
 .cache
 *.orig
 /dist/package.json
+/dist/README.md
+/dist/LICENSE
