@@ -20,7 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alyssax/flowy.git"
+    "url": "git+https://github.com/joelvh/flowy-engine.git"
   },
   "keywords": [
     "flowchart",
@@ -39,9 +39,9 @@
     "Joel Van Horn <joel@joelvanhorn.com> (http://joelvanhorn.com)"
   ],
   "bugs": {
-    "url": "https://github.com/joelvh/flowy/issues"
+    "url": "https://github.com/joelvh/flowy-engine/issues"
   },
-  "homepage": "https://github.com/joelvh/flowy#readme",
+  "homepage": "https://github.com/joelvh/flowy-engine#readme",
   "devDependencies": {
     "@babel/cli": "^7.5.5",
     "@babel/core": "^7.5.5",
